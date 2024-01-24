@@ -27,8 +27,8 @@ header{
     align-items: center;
     background-image: url(./images/canapesBg1.svg);
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    backround-position: center;
+    bacground-size: cover;
 
 }
 .wrapH{
