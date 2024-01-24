@@ -25,7 +25,7 @@ header{
     display: flex;
     justify-content:center ;
     align-items: center;
-    background-image: url(./images/InShot_20240122_144842235.jpg);
+    background-image: url(./images/canapesBg1.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -111,7 +111,7 @@ li{
 section{
     width: 100%;
     height: 2600px;
-    background: url(./images/InShot_20240122_161246351.jpg);
+    background: url(./images/url(./images/canapesBg2.svg);
     background-position: center;
     background-size: cover;
     display: flex;
